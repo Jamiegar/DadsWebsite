@@ -27,6 +27,7 @@
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
+
 * {
      box-sizing: border-box !important;
      transition: ease all 0.5s;
@@ -140,6 +141,16 @@ a {
      outline: none !important;
 }
 
+.dadsImg {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 75%;
+     
+}
+
+
+
 a,
 .btn {
      text-decoration: none !important;
@@ -152,8 +163,9 @@ a,
 }
 
 img {
-     max-width: 100%;
-     height: auto;
+     max-width: 75%;
+     max-width: 75%;
+     
 }
 
  :focus {
@@ -391,7 +403,7 @@ button {
 
 .image_1{
      width: 100%;
-     float: left;
+     float: middle;
 }
 
 .job_section_2{
